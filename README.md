@@ -169,18 +169,38 @@ git clone <repository-url>
 Home Page
 <img width="1919" height="422" alt="image" src="https://github.com/user-attachments/assets/91fddd62-ca50-4a89-a7fb-1565c2eaadc8" />
 
+Register Page
+<img width="1919" height="647" alt="image" src="https://github.com/user-attachments/assets/a88530fa-c2ea-4cf4-ab99-8a061ce7579f" />
+
 Login Page
 <img width="1919" height="534" alt="image" src="https://github.com/user-attachments/assets/b168788d-4cdb-4152-a158-8bbb1299e136" />
 
 <img width="1918" height="549" alt="image" src="https://github.com/user-attachments/assets/94efa91c-db91-4d5f-9eac-44e8e7216a09" />
 
-
-Register Page
-<img width="1919" height="647" alt="image" src="https://github.com/user-attachments/assets/a88530fa-c2ea-4cf4-ab99-8a061ce7579f" />
+<img width="1912" height="527" alt="image" src="https://github.com/user-attachments/assets/4346f012-eee6-46ae-9819-ad2669b8b051" />
 
 Jobs Page
+<img width="1913" height="828" alt="image" src="https://github.com/user-attachments/assets/a7689705-4d0b-4ce4-881d-a966015f9c48" />
+
+<img width="1910" height="848" alt="image" src="https://github.com/user-attachments/assets/79cb8d80-cbc2-4db7-9f62-7e442701d1ab" />
+
+<img width="1919" height="827" alt="image" src="https://github.com/user-attachments/assets/c703bab3-70b5-4f87-99a9-03ce4d011973" />
+
 Dashboard
+<img width="1919" height="596" alt="image" src="https://github.com/user-attachments/assets/545cb88f-4224-419c-af3c-3a228074d2ef" />
+
+<img width="1915" height="600" alt="image" src="https://github.com/user-attachments/assets/42c54d9f-47e3-4802-912c-e490e20ccbf1" />
+
 Admin Add Job Page
+
+<img width="1919" height="536" alt="image" src="https://github.com/user-attachments/assets/b1c2dc4c-3181-405c-b25e-ce867c543df6" />
+
+<img width="1892" height="954" alt="image" src="https://github.com/user-attachments/assets/48e55771-8c2f-4e8c-9ff7-526aa67c9a18" />
+
+<img width="1919" height="603" alt="image" src="https://github.com/user-attachments/assets/a4818553-7b55-4b08-a50d-ca884f54f68b" />
+
+
+
 
 # Future Enhancements
 - JWT Authentication
