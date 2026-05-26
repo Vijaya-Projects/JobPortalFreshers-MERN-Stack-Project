@@ -55,7 +55,7 @@ This project aims to provide:
 # 📂 Project Structure
 
 ## Frontend Structure
-
+```text
 frontend/
 │
 ├── public/
@@ -90,6 +90,8 @@ backend/
 ├── .env
 ├── server.js
 └── package.json
+text
+
 # Database Tables
 ## users
 id
