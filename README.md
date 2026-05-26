@@ -95,13 +95,13 @@ backend/
 
 # Features
 ## User Features
-User Registration
-User Login
-View Jobs
-Apply Jobs
-Dashboard
-View Applied Jobs
-Logout
+ - User Registration
+ - User Login
+ - View Jobs
+ - Apply Jobs
+ - Dashboard
+ - View Applied Jobs
+ - Logout
 ## Admin Features
 Admin Login
 Add Jobs
