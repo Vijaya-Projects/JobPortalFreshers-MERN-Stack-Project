@@ -90,7 +90,24 @@ backend/
 ├── .env
 ├── server.js
 └── package.json
-text
+
+```
+
+# Features
+## User Features
+User Registration
+User Login
+View Jobs
+Apply Jobs
+Dashboard
+View Applied Jobs
+Logout
+## Admin Features
+Admin Login
+Add Jobs
+Edit Jobs
+Delete Jobs
+Manage Jobs
 
 # Database Tables
 ## users
