@@ -103,11 +103,11 @@ backend/
  - View Applied Jobs
  - Logout
 ## Admin Features
-Admin Login
-Add Jobs
-Edit Jobs
-Delete Jobs
-Manage Jobs
+ - Admin Login
+ - Add Jobs
+ - Edit Jobs
+ - Delete Jobs
+ - Manage Jobs
 
 # Database Tables
 ## users
@@ -158,19 +158,16 @@ npm install
 npm start
 
 # Environment Variables
-
 Create .env file inside backend folder.
-
-PORT=5000
-DB_HOST=localhost
-DB_USER=root
-DB_PASSWORD=root
-DB_NAME=jobportal
+- PORT=5000
+- DB_HOST=localhost
+- DB_USER=root
+- DB_PASSWORD=root
+- DB_NAME=jobportal
 
 # Screenshots
 
 Add screenshots here:
-
 Home Page
 Login Page
 Register Page
@@ -179,20 +176,20 @@ Dashboard
 Admin Add Job Page
 
 # Future Enhancements
-JWT Authentication
-Password Encryption using bcrypt
-Resume Upload
-Search & Filter Jobs
-Email Notifications
-Cloud Deployment
+- JWT Authentication
+- Password Encryption using bcrypt
+- Resume Upload
+- Search & Filter Jobs
+- Email Notifications
+- Cloud Deployment
 
 # Learning Outcomes
-React Routing
-REST API Development
-CRUD Operations
-MySQL Integration
-Authentication Flow
-Role-Based Access Control
+- React Routing
+- REST API Development
+- CRUD Operations
+- MySQL Integration
+- Authentication Flow
+- Role-Based Access Control
 
 # Author
 
