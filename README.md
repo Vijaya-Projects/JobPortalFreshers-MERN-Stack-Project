@@ -111,21 +111,21 @@ backend/
 
 # Database Tables
 ## users
-id
-name
-email
-password
-role
+- id
+- name
+- email
+- password
+- role
 ## jobs
-id
-title
-company
-location
+- id
+- title
+- company
+- location
 ## job_applications
-id
-user_id
-job_id
-applied_at
+- id
+- user_id
+- job_id
+- applied_at
 # API Endpoints
 Authentication APIs
 ## Register
@@ -149,16 +149,16 @@ GET /api/jobs/applied/:userId
 Clone Repository
 git clone <repository-url>
 ## Backend Setup
-cd backend
-npm install
-npm run dev
+ - cd backend
+ - npm install
+ - npm run dev
 ## Frontend Setup
-cd frontend
-npm install
-npm start
+ - cd frontend
+ - npm install
+ - npm start
 
 # Environment Variables
-Create .env file inside backend folder.
+.env file inside backend folder.
 - PORT=5000
 - DB_HOST=localhost
 - DB_USER=root
@@ -166,11 +166,18 @@ Create .env file inside backend folder.
 - DB_NAME=jobportal
 
 # Screenshots
-
-Add screenshots here:
 Home Page
+<img width="1919" height="422" alt="image" src="https://github.com/user-attachments/assets/91fddd62-ca50-4a89-a7fb-1565c2eaadc8" />
+
 Login Page
+<img width="1919" height="534" alt="image" src="https://github.com/user-attachments/assets/b168788d-4cdb-4152-a158-8bbb1299e136" />
+
+<img width="1918" height="549" alt="image" src="https://github.com/user-attachments/assets/94efa91c-db91-4d5f-9eac-44e8e7216a09" />
+
+
 Register Page
+<img width="1919" height="647" alt="image" src="https://github.com/user-attachments/assets/a88530fa-c2ea-4cf4-ab99-8a061ce7579f" />
+
 Jobs Page
 Dashboard
 Admin Add Job Page
