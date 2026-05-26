@@ -1,6 +1,6 @@
 # JobPortalFreshers
 
-## 📌 Project Overview
+## Project Overview
 
 JobPortalFreshers is a full-stack web application developed for fresh graduates to search and apply for jobs easily.  
 The project provides separate functionalities for users and admin with role-based access control.
@@ -9,7 +9,7 @@ This project is developed using React.js, Node.js, Express.js, and MySQL.
 
 ---
 
-# 🚀 Problem Statement
+# Problem Statement
 
 Fresh graduates often struggle to find suitable entry-level job opportunities. Existing job portals mainly focus on experienced professionals and contain complex workflows.
 
@@ -22,7 +22,7 @@ This project aims to provide:
 
 ---
 
-# 🎯 Objectives
+# Objectives
 
 - Build a real-time MERN-style job portal
 - Implement user authentication
