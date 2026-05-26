@@ -56,7 +56,6 @@ This project aims to provide:
 
 ## Frontend Structure
 
-```text
 frontend/
 │
 ├── public/
